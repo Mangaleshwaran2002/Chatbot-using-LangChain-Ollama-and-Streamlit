@@ -15,7 +15,7 @@ A simple yet powerful chatbot interface built using LangChain, Ollama, and Strea
     - Streamlit provides a user-friendly interface with message bubbles for both human and AI messages.
 
 ## Screenshots
-![Chatbot in Action](https://raw.githubusercontent.com/Mangaleshwaran2002/Ollama-Powered-LLM-CLI-Toolkit/refs/heads/master/screenshots/Screen_Recording.gif)
+![Chatbot in Action](https://raw.githubusercontent.com/Mangaleshwaran2002/Chatbot-using-LangChain-Ollama-and-Streamlit/refs/heads/master/screenshots/Screencast_recording.gif)
 
 ## Requirements
 
